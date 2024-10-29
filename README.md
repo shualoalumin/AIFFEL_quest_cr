@@ -1,7 +1,5 @@
 # AIFFEL_quest_cr
 여기는 아이펠 코어과정 퀘스터 작업 공간입니다.
-# 디렉토리 구조는 본 코드블럭을 참고하여 작성합니다.
-# README파일에 작성할 땐 bash코드펜스에 넣어야 구조를 볼 수 있습니다 :)
 
 ```
 AIFFEL_quest_cr
@@ -9,21 +7,76 @@ AIFFEL_quest_cr
 │   ├── Quest01
 │   │   ├── .ipynb
 │   │   └── README.md
-.		.
-.		.
-.		.
+│   ├── Quest02
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest03
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest04
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest05
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest06
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest07
+│   │   ├── .ipynb
+│   │   └── README.md
 │   └── Quest08
 │       ├── .ipynb
 │       └── README.md
-.
-.
-.
+├── Python
+│   ├── Quest01
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest02
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest03
+│   │   ├── .ipynb
+│   │   └── README.md
+│   └── Quest04
+│       ├── .ipynb
+│       └── README.md
+├── Flutter
+│   ├── Quest01
+│   │   ├── Project01
+│   │   └── README.md
+│   ├── Quest02
+│   │   ├── Project02
+│   │   └── README.md
+│   ├── Quest03
+│   │   ├── Project03
+│   │   └── README.md
+│   ├── Quest04
+│   │   ├── Project04
+│   │   └── README.md
+│   └── Quest05
+│       ├── Project05
+│       └── README.md
 └── Exploration
-    ├── Ex01
-    .
-    .
-    .
-    └── Ex07
+    ├── Quest01
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Quest02
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Quest03
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Quest04
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Quest05
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Quest06
+    │   ├── .ipynb
+    │   └── README.md
+    └── Quest07
         ├── .ipynb
         └── README.md
 ```
