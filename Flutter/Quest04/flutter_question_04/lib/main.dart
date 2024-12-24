@@ -7,6 +7,7 @@ import 'bookmark_page.dart';
 import 'search_page.dart';
 import 'media_collection_page.dart';
 import 'settings_page.dart';
+import 'splash_screen.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 
 void main() {
@@ -33,7 +34,11 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       darkTheme: ThemeData.dark(),
-      home: MainPage(),
+      initialRoute: '/',
+      routes: {
+        '/': (context) => SplashScreen(),
+        '/main': (context) => MainPage(),
+      },
       locale: themeProvider.locale,
       supportedLocales: [
         Locale('en', ''),
@@ -58,6 +63,8 @@ class MyApp extends StatelessWidget {
 }
 
 class MainPage extends StatefulWidget {
+  const MainPage({super.key});
+
   @override
   _MainPageState createState() => _MainPageState();
 }

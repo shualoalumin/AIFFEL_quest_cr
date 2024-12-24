@@ -27,7 +27,7 @@ class LanguageSelectionScreen extends StatelessWidget {
             ),
           ],
           onChanged: (Locale? newLocale) {
-            // 언어 전환 로직 추가
+            
           },
         ),
       ),

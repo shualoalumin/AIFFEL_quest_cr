@@ -28,7 +28,6 @@ class BookmarkPage extends StatelessWidget {
                   subtitle: Text('TECHNOLOGY'),
                   trailing: Icon(Icons.close),
                 ),
-                // Add more ListTiles as needed
               ],
             ),
           ),

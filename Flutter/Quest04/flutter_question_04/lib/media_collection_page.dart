@@ -27,7 +27,6 @@ class MediaCollectionPage extends StatelessWidget {
                   title: Text('The IPO parade continues as Wish files'),
                   subtitle: Text('9:24'),
                 ),
-                // Add more ListTiles as needed
               ],
             ),
           ),
