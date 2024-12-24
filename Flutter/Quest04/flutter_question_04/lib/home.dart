@@ -13,7 +13,7 @@ class HomeScreen extends StatelessWidget {
         backgroundColor: Colors.white,
         title: Center(
           child: Text(
-            AppLocalizations.of(context).translate('title'),
+            AppLocalizations.of(context).translate('AI News'),
             style: TextStyle(color: Colors.black, fontWeight: FontWeight.bold),
           ),
         ),
